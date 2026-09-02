@@ -15,7 +15,7 @@ Demonstrar a aplicação prática e procedural dos seguintes modificadores:
 
 ---
 <img width="587" height="480" alt="image" src="https://github.com/user-attachments/assets/b847d46e-9609-4222-91c5-890a0b35e273" />
----
+
 
 
 ## 💡 Por que utilizei cada função?
