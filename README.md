@@ -14,6 +14,8 @@ Demonstrar a aplicação prática e procedural dos seguintes modificadores:
 * **`Solidify`:** Espessura de chapas e superfícies metálicas. 
 
 ---
+<img width="587" height="480" alt="image" src="https://github.com/user-attachments/assets/b847d46e-9609-4222-91c5-890a0b35e273" />
+---
 ## 💡 Por que utilizei cada função?
 
 * **`Mirror`:** Utilizado para garantir a simetria da estrutura. A partir do momento em que uma coluna foi modelada, utilizar o *Mirror* para gerar as outras três me poupou bastante tempo.
